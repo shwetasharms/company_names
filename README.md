@@ -1,11 +1,9 @@
 # company_names
 List of companies to apply  with career page link
 
-Great for freshers and developers with 1–4 years of experience:
-
-1. **Tata Consultancy Services (TCS)**[hi](https://web.whatsapp.com/)
-2. **Wipro**
-3. **HCL Technologies**
+1. [Tata Consultancy Services (TCS)](https://ibegin.tcs.com/candidate/)
+2. [Wipro](https://careers.wipro.com/)
+3. [HCL Technologies](https://www.hcltech.com/careers/careers-in-india#job-openings)
 4. **Tech Mahindra**
 5. **L\&T Technology Services**
 6. **Mindtree (now part of LTIMindtree)**
@@ -14,104 +12,70 @@ Great for freshers and developers with 1–4 years of experience:
 9. **Persistent Systems**
 10. **Zensar Technologies**
 
----
+11. **Thoughtworks**
+12. **Publicis Sapient**
+13. **Harman Connected Services**
+14. **Birlasoft**
+15. **NIIT Technologies**
+16. **Sonata Software**
+17. **Cyient**
+18. **Valtech**
+19. **Incedo**
+20. **Nagarro**
 
 
-Better learning and slightly faster career growth:
+21. **Zoho**
+22. **Freshworks**
+23. **Razorpay**
+24. **CRED**
+25. **Zerodha**
+26. **Flipkart**
+27. **Swiggy**
+28. **Paytm**
+29. **Meesho**
+30. **Groww**
 
-1. **Thoughtworks**
-2. **Publicis Sapient**
-3. **Harman Connected Services**
-4. **Birlasoft**
-5. **NIIT Technologies**
-6. **Sonata Software**
-7. **Cyient**
-8. **Valtech**
-9. **Incedo**
-10. **Nagarro**
+31. **Accenture**
+32. **Capgemini**
+33. **Cognizant**
+34. **IBM India**
+35. **Oracle India**
+36. **SAP Labs**
+37. **Deloitte**
+38. **EY (Ernst & Young)**
+39. **KPMG**
+40. **PwC (PricewaterhouseCoopers)**
 
----
+41. **Unacademy**
+42. **Byju’s**
+43. **UpGrad**
+44. **ShareChat**
+45. **Apna**
+46. **NoBroker**
+47. **Urban Company**
+48. **Cashfree**
+49. **Innovaccer
+50. ClearTax
 
+51. Turing.com** (Remote full-stack roles)
+52. HashedIn by Deloitte
+53. Simform
+54. GeekyAnts
+55. MindInventory
+56. Cogoport
+57. Hevodata
+58. Wingify
 
-If you're more into development-heavy roles:
-
-1. **Zoho**
-2. **Freshworks**
-3. **Razorpay**
-4. **CRED**
-5. **Zerodha**
-6. **Flipkart**
-7. **Swiggy**
-8. **Paytm**
-9. **Meesho**
-10. **Groww**
-
----
-
-### 🔹 **MNCs Operating in India (with Great Career Opportunities)**
-
-1. **Accenture**
-2. **Capgemini**
-3. **Cognizant**
-4. **IBM India**
-5. **Oracle India**
-6. **SAP Labs**
-7. **Deloitte**
-8. **EY (Ernst & Young)**
-9. **KPMG**
-10. **PwC (PricewaterhouseCoopers)**
-
----
-
-### 🔹 **Startups / High-Growth Tech Companies**
-
-Good for hands-on skills and growth (depending on risk appetite):
-
-1. **Unacademy**
-2. **Byju’s**
-3. **UpGrad**
-4. **ShareChat**
-5. **Apna**
-6. **NoBroker**
-7. **Urban Company**
-8. **Cashfree**
-9. **Innovaccer
-10. ClearTax
-
-
-
-Turing.com** (Remote full-stack roles)
-HashedIn by Deloitte
-Simform
-GeekyAnts
-MindInventory
-Cogoport
-Hevodata
-Wingify
-
----
-Great! You're now aiming for **high-growth product-based companies** and **elite tech firms** like **D. E. Shaw** and **Cars24** — which is a smart move if you’re looking for stronger engineering culture, good compensation, and exciting challenges.
-
-Here’s a curated list of **top-tier product-based and fintech companies** like D.E. Shaw and Cars24 that you can apply to:
-
----
-
-### 💼 **Top Product-Based Companies (India + Global Presence)**
-
-These companies hire talented developers for backend, frontend, full-stack, and data roles:
-
-#### 💰 Fintech & Investment Tech (like D. E. Shaw)
-
-1. **D. E. Shaw**
-2. **JP Morgan Chase**
-3. **Morgan Stanley**
-4. **Goldman Sachs**
-5. **Barclays**
-6. **Nomura**
-7. **HSBC Technology**
-8. **Paytm Money**
-9. **Zerodha**
-10. **Groww**
+61. **D. E. Shaw**
+62. **JP Morgan Chase**
+63. **Morgan Stanley**
+64. **Goldman Sachs**
+65. **Barclays**
+66. **Nomura**
+67. **HSBC Technology**
+68. **Paytm Money**
+69. **Zerodha**
+70. **Groww**
 11. **Upstox**
 12. **Razorpay**
 13. **Pine Labs**
