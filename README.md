@@ -4,12 +4,12 @@ List of companies to apply  with career page link
 1. [Tata Consultancy Services (TCS)](https://ibegin.tcs.com/candidate/)
 2. [Wipro](https://careers.wipro.com/)
 3. [HCL Technologies](https://www.hcltech.com/careers/careers-in-india#job-openings)
-4. **Tech Mahindra**
-5. **L\&T Technology Services**
+4. 
+5. L\&T Technology Services
 6. **Mindtree (now part of LTIMindtree)**
 7. **Mphasis**
-8. **Hexaware Technologies**
-9. **Persistent Systems**
+8. [Hexaware Technologies](https://jobs.hexaware.com/#en/sites/CX_1/jobs?keyword=Frontend+Developer&mode=location)
+9. [Persistent Systems](https://careers.persistent.com/explore-opportunities)
 10. **Zensar Technologies**
 
 11. **Thoughtworks**
@@ -21,7 +21,7 @@ List of companies to apply  with career page link
 17. **Cyient**
 18. **Valtech**
 19. **Incedo**
-20. **Nagarro**
+20. [Nagarro](https://www.nagarro.com/en/careers/job-search?keyword=Frontend%20Developer)
 
 
 21. **Zoho**
@@ -44,7 +44,7 @@ List of companies to apply  with career page link
 37. **Deloitte**
 38. **EY (Ernst & Young)**
 39. **KPMG**
-40. **PwC (PricewaterhouseCoopers)**
+40. [PwC]()
 
 41. **Unacademy**
 42. **Byju’s**
@@ -65,6 +65,8 @@ List of companies to apply  with career page link
 56. Cogoport
 57. Hevodata
 58. Wingify
+59. Coforge
+60. GlobalLogic
 
 61. **D. E. Shaw**
 62. **JP Morgan Chase**
@@ -76,11 +78,14 @@ List of companies to apply  with career page link
 68. **Paytm Money**
 69. **Zerodha**
 70. **Groww**
-11. **Upstox**
-12. **Razorpay**
-13. **Pine Labs**
-14. **Cred**
-15. **BharatPe**
+
+71. **Upstox**
+72. **Razorpay**
+73. **Pine Labs**
+74. **Cred**
+75. **BharatPe**
+76. Appinventiv
+77. 
 
 ---
 
@@ -101,7 +106,7 @@ List of companies to apply  with career page link
 
 ### 🛒 E-commerce / Consumer Tech (Aggressively hiring tech talent)
 
-1. **Flipkart**
+1. [Flipkart](https://www.flipkartcareers.com/#!/joblist)
 2. **Amazon India**
 3. **Meesho**
 4. **Swiggy**
@@ -141,6 +146,8 @@ List of companies to apply  with career page link
 8. **MoEngage**
 9. **Hevo Data**
 10.LambdaTest
+
+
 
 ---
 
