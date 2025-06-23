@@ -107,11 +107,11 @@ List of companies to apply  with career page link
 ### 🛒 E-commerce / Consumer Tech (Aggressively hiring tech talent)
 
 1. [Flipkart](https://www.flipkartcareers.com/#!/joblist)
-2. **Amazon India**
-3. **Meesho**
-4. **Swiggy**
+2. [Amazon](https://www.amazon.jobs/en/search?base_query=Front+End+Engineer+%28React%29%2C+AGI+Information&loc_query=)
+3. [Meesho](https://www.meesho.io/jobs?d=engineering)
+4. [Swiggy](https://careers.swiggy.com/#/)
 5. **Zomato**
-6. **Blinkit**
+6. [Blinkit](https://blinkit.com/careers/jobs?srsltid=AfmBOorFBx_HnFtdgeGc5aXGGGO8UAxrWpSVXgI81LzhdSEnK7asmKGO)
 7. **BigBasket**
 8. **Nykaa**
 9. **Snapdeal**
